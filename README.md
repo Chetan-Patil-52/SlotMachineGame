@@ -1,9 +1,5 @@
 # SlotMachineGame
-A simple text-based slot machine game implemented in Python. This program allows users to deposit money, place bets on multiple lines, and spin a virtual slot machine to try their luck.
-
-# Slot Machine Game
-
-This is a simple text-based slot machine game implemented in Python. It allows users to deposit money, place bets on multiple lines, and spin a virtual slot machine to win based on matching symbols.
+A simple text-based slot machine game implemented in Python. This program allows users to deposit money, place bets on multiple lines, and spin a virtual slot machine to try their luck to win based on matching symbols.
 
 ## Features
 - Deposit money to start playing.
